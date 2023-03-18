@@ -1,7 +1,7 @@
 #if UNITY_EDITOR && UNITASK_WEBREQUEST_SUPPORT
 
 #define UseTelegram
-//#define UseDiscord
+#define UseDiscord
 #define UseGalaxyHomeMiniSpeaker
 
 using System.Text;
